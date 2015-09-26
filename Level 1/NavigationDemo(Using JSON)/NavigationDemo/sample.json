@@ -1,0 +1,228 @@
+{
+	"categories": [
+				   {
+				   "id": "1",
+				   "name": "Office Supplies",
+				   "products": [
+								{
+								"id": "11",
+								"name": "Item 11",
+								"Samples":[
+											{
+											   "id":"111",
+											   "name":"Item 111"
+										    }
+										  ]
+								},
+								{
+								"id": "12",
+								"name": "Item 12",
+								"Samples":[
+										   {
+										   "id":"112",
+										   "name":"Item 112"
+										   }
+										   ]
+								},
+								{
+								"id": "13",
+								"name": "Item 13",
+								"Samples":[
+										   {
+										   "id":"113",
+										   "name":"Item 113"
+										   }
+										   ]
+								},
+								{
+								"id": "14",
+								"name": "Item 14",
+								"Samples":[
+										   {
+										   "id":"114",
+										   "name":"Item 114"
+										   }
+										   ]
+								},
+								{
+								"id": "15",
+								"name": "Item 15",
+								"Samples":[
+										   {
+										   "id":"115",
+										   "name":"Item 115"
+										   }
+										   ]
+								}
+								]
+				   },
+				   {
+				   "id": "2",
+				   "name": "Safety Supplies",
+				   "products": [
+								{
+								"id": "21",
+								"name": "Item 21",
+								"Samples":[
+										   {
+										   "id":"211",
+										   "name":"Item 211"
+										   }
+										   ]
+								},
+								{
+								"id": "22",
+								"name": "Item 22",
+								"Samples":[
+										   {
+										   "id":"212",
+										   "name":"Item 212"
+										   }
+										   ]
+								},
+								{
+								"id": "23",
+								"name": "Item 23",
+								"Samples":[
+										   {
+										   "id":"213",
+										   "name":"Item 213"
+										   }
+										   ]
+								},
+								{
+								"id": "24",
+								"name": "Item 24",
+								"Samples":[
+										   {
+										   "id":"214",
+										   "name":"Item 214"
+										   }
+										   ]
+								},
+								{
+								"id": "25",
+								"name": "Item 25",
+								"Samples":[
+										   {
+										   "id":"215",
+										   "name":"Item 215"
+										   }
+										   ]
+								}
+								]
+				   },
+				   {
+				   "id": "3",
+				   "name": "House Supplies",
+				   "products": [
+								{
+								"id": "31",
+								"name": "Item 31",
+								"Samples":[
+										   {
+										   "id":"311",
+										   "name":"Item 311"
+										   }
+										   ]
+								},
+								{
+								"id": "32",
+								"name": "Item 32",
+								"Samples":[
+										   {
+										   "id":"312",
+										   "name":"Item 311"
+										   }
+										   ]
+								},
+								{
+								"id": "33",
+								"name": "Item 33",
+								"Samples":[
+										   {
+										   "id":"313",
+										   "name":"Item 313"
+										   }
+										   ]
+								},
+								{
+								"id": "34",
+								"name": "Item 34",
+								"Samples":[
+										   {
+										   "id":"314",
+										   "name":"Item 314"
+										   }
+										   ]
+								},
+								{
+								"id": "35",
+								"name": "Item 35",
+								"Samples":[
+										   {
+										   "id":"315",
+										   "name":"Item 315"
+										   }
+										   ]
+								}
+								]
+				   },
+				   {
+				   "id": "4",
+				   "name": "Other Supplies",
+				   "products": [
+								{
+								"id": "41",
+								"name": "Item 41",
+								"Samples":[
+										   {
+										   "id":"411",
+										   "name":"Item 411"
+										   }
+										   ]
+								},
+								{
+								"id": "42",
+								"name": "Item 42",
+								"Samples":[
+										   {
+										   "id":"412",
+										   "name":"Item 412"
+										   }
+										   ]
+								},
+								{
+								"id": "43",
+								"name": "Item 43",
+								"Samples":[
+										   {
+										   "id":"111",
+										   "name":"Item 111"
+										   }
+										   ]
+								},
+								{
+								"id": "44",
+								"name": "Item 44",
+								"Samples":[
+										   {
+										   "id":"111",
+										   "name":"Item 111"
+										   }
+										   ]
+								},
+								{
+								"id": "45",
+								"name": "Item 45",
+								"Samples":[
+										   {
+										   "id":"111",
+										   "name":"Item 111"
+										   }
+										   ]
+								}
+								]
+				   }
+				   ]
+}
