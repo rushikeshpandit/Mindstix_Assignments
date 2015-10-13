@@ -1,0 +1,239 @@
+{
+    "category": [
+        {
+            "_id": "101",
+            "name": "Furniture",
+            "image": "furniture.jpg",
+            "product": [
+                {
+                    "_id": "201",
+                    "image": "chair.jpg",
+                    "name": "Bark Furniture",
+                    "description": "Bark Furniture - British Handmade basepoke furniture",
+                    "price": "10000",
+                    "rating": "4.5"
+                },
+                {
+                    "_id": "202",
+                    "image": "chandan.jpg",
+                    "name": "Chandan's Interior's",
+                    "description": "Leaving Room Furniture",
+                    "price": "500000",
+                    "rating": "5"
+                },
+                {
+                    "_id": "203",
+                    "image": "housefull.jpg",
+                    "name": "Chair and Table Set",
+                    "description": "Housefull's Chair and Table Set",
+                    "price": "12000",
+                    "rating": "3.5"
+                },
+                {
+                    "_id": "204",
+                    "image": "modern.jpg",
+                    "name": "Modern Bed",
+                    "description": "Modern Target Bed Furniture",
+                    "price": "8000",
+                    "rating": "4.5"
+                },
+                {
+                    "_id": "205",
+                    "image": "sofa.jpg",
+                    "name": "Modern Sofa Set",
+                    "description": "Custom Furniture Sprites Modern Furniture",
+                    "price": "20000",
+                    "rating": "5"
+                }
+            ]
+        },
+        {
+            "_id": "102",
+            "name": "Health Products",
+            "image": "health_products.jpg",
+            "product": [
+                {
+                    "_id": "201",
+                    "image": "allnatural.jpeg",
+                    "name": "All Natural",
+                    "description": "All Natural Herbal Health Produts",
+                    "price": "1000",
+                    "rating": "3.5"
+                },
+                {
+                    "_id": "202",
+                    "image": "badam.jpg",
+                    "name": "Almond",
+                    "description": "Dabur's Almonds",
+                    "price": "500",
+                    "rating": "5"
+                },
+                {
+                    "_id": "203",
+                    "image": "gulkand.jpg",
+                    "name": "Gulkand",
+                    "description": "Dabur's Gulkand Product",
+                    "price": "1000",
+                    "rating": "4.5"
+                },
+                {
+                    "_id": "204",
+                    "image": "haldi.jpg",
+                    "name": "Turmeric Powder",
+                    "description": "Everest's Turmeric Powder",
+                    "price": "200",
+                    "rating": "5"
+                },
+                {
+                    "_id": "205",
+                    "image": "kesar.jpg",
+                    "name": "Saffron",
+                    "description": "Amuls's Saffron Products",
+                    "price": "2000",
+                    "rating": "5"
+                }
+            ]
+        },
+        {
+            "_id": "103",
+            "name": "Gifts and Greetings",
+            "image": "gifts.jpg",
+            "product": [
+                {
+                    "_id": "201",
+                    "image": "basket.jpg",
+                    "name": "Gift Basket",
+                    "description": "Gift Basket with Alcohol",
+                    "price": "20000",
+                    "rating": "4.5"
+                },
+                {
+                    "_id": "202",
+                    "image": "chocolate.jpg",
+                    "name": "Chocolate Basket",
+                    "description": "Large Nuts and Chocolates Line-Up Gift",
+                    "price": "1000",
+                    "rating": "4.5"
+                },
+                {
+                    "_id": "203",
+                    "image": "coffee.jpeg",
+                    "name": "Coffee Mugs",
+                    "description": "Archies Coffee Mugs",
+                    "price": "500",
+                    "rating": "3.5"
+                },
+                {
+                    "_id": "204",
+                    "image": "greeting.jpg",
+                    "name": "Greeting Card",
+                    "description": "Birthday Greeting Card",
+                    "price": "200",
+                    "rating": "5"
+                },
+                {
+                    "_id": "205",
+                    "image": "photo.jpg",
+                    "name": "Photo Frame",
+                    "description": "Photo Frame By Archies",
+                    "price": "1000",
+                    "rating": "3.5"
+                }
+            ]
+        },
+        {
+            "_id": "104",
+            "name": "Cosmetics",
+            "image": "cosmetics.jpg",
+            "product": [
+                {
+                    "_id": "201",
+                    "image": "eyeconic.jpg",
+                    "name": "Eyeconic Kajal",
+                    "description": "Eyeconic Black Kajal Pencil",
+                    "price": "250",
+                    "rating": "4.5"
+                },
+                {
+                    "_id": "202",
+                    "image": "lakme.jpg",
+                    "name": "Lakme Makeup Kit",
+                    "description": "Lakme Makeup Kit with eye shadow and lipstic",
+                    "price": "2000",
+                    "rating": "5"
+                },
+                {
+                    "_id": "203",
+                    "image": "maybelline.jpg",
+                    "name": "Maybelline Lip Balm",
+                    "description": "Maybelline's Baby Lips Lip Balm",
+                    "price": "150",
+                    "rating": "5"
+                },
+                {
+                    "_id": "204",
+                    "image": "olay.png",
+                    "name": "Olay Products",
+                    "description": "Olay's Anti Aging Cream",
+                    "price": "1500",
+                    "rating": "5"
+                },
+                {
+                    "_id": "205",
+                    "image": "oriflame.jpg",
+                    "name": "Oriflame Products",
+                    "description": "Oriflame's EcoBeauty night Soomthing Cream",
+                    "price": "1000",
+                    "rating": "5"
+                }
+            ]
+        },
+        {
+            "_id": "105",
+            "name": "Home Appliances",
+            "image": "home_appliances.jpg",
+            "product": [
+                {
+                    "_id": "201",
+                    "image": "ac.jpg",
+                    "name": "Air Conditioner",
+                    "description": "LG Air Conditioner",
+                    "price": "35000",
+                    "rating": "4.5"
+                },
+                {
+                    "_id": "202",
+                    "image": "microwave.jpg",
+                    "name": "Microwave Oven",
+                    "description": "Microwave Oven",
+                    "price": "30000",
+                    "rating": "3.5"
+                },
+                {
+                    "_id": "203",
+                    "image": "refrigerators.jpg",
+                    "name": "Refrigerator",
+                    "description": "Whirlpool Refrigerator",
+                    "price": "25000",
+                    "rating": "4.5"
+                },
+                {
+                    "_id": "204",
+                    "image": "tv.jpg",
+                    "name": "TV",
+                    "description": "LG's LED Television",
+                    "price": "45000",
+                    "rating": "4"
+                },
+                {
+                    "_id": "205",
+                    "image": "washingmachine.jpg",
+                    "name": "Washing Machine",
+                    "description": "Whirlpool Washing Machine",
+                    "price": "30000",
+                    "rating": "4.5"
+                }
+            ]
+        }
+    ]
+}

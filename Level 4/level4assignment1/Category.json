@@ -1,0 +1,156 @@
+{
+    "categories": [
+        {
+            "_id": "101",
+            "name": "Office Supplies",
+            "products": [
+                {
+                    "_id": "201",
+                    "image": "swissgearbackpack.jpeg",
+                    "name": "SwissGear Synergy Laptop Backpack, Black/Blue, 17'' ",
+                    "description": "Fits up to a 15.6'' Laptop, Made of durable 1680D ballistic nylon, Dual handle system - carrying handle and trolley strap ",
+                    "price": "112.99",
+                    "rating": "4.5"
+                },
+                {
+                    "_id": "202",
+                    "image": "jansportallpurposebags.jpeg",
+                    "name": "Jansport All Purpose Backpack, Blue Wash, 15'' ",
+                    "description": "One main compartment, Ergonomic S-curve shoulder straps, Front cord storage pocket",
+                    "price": "48.74",
+                    "rating": "5"
+                },
+                {
+                    "_id": "203",
+                    "image": "airbacringbackpack.jpeg",
+                    "name": "Airbac Ring Backpack, Blue",
+                    "description": "Feels like half the weight, Protects Laptop from when dropping, Better Posture",
+                    "price": "68.99",
+                    "rating": "5"
+                },
+                {
+                    "_id": "204",
+                    "image": "simplyviewbinder.jpeg",
+                    "name": "Simply View Binder with Round Rings, Black",
+                    "description": "Available in assorted pack sizes, Holds up to 375 sheets, Round ring has mechanism",
+                    "price": "4.09",
+                    "rating": "5"
+                }
+            ]
+        },
+        {
+            "_id": "102",
+            "name": "Safety Supplies",
+            "products": [
+                {
+                    "_id": "201",
+                    "image": "mutualindustriesgloves.jpeg",
+                    "name": "Mutual Industries Heavy-Duty Leather Palm Work Gloves",
+                    "description": "Style: Wing thumb, split leather palm and finger tips, Lining: cottin padded, Cuff Style: 2 1/2'' rubberized safety",
+                    "price": "25.49",
+                    "rating": "5"
+                },
+                {
+                    "_id": "202",
+                    "image": "dwioakwoodada.jpeg",
+                    "name": "DWI Oak Wood ADA Compatible Mobile Labs Station 33''H x 24''D ",
+                    "description": "Constructed of Oak & Oak Veneers, Dimensions: 33''H x 72''W x 24''D, Color: Oak ",
+                    "price": "1799.99",
+                    "rating": "0"
+                },
+                {
+                    "_id": "203",
+                    "image": "summerheavyduty.jpeg",
+                    "name": "Summer Heavy Duty Hi Jack Stand, 28-49 in (H), 1 1/4-24 in Pipe Diameter, 2500 lbs ",
+                    "description": "Jack stands capacity: 2500 lbs, Jack stand height: 28-49-inch, Type: Heavy duty ",
+                    "price": "180.89",
+                    "rating": "0"
+                },
+                {
+                    "_id": "204",
+                    "image": "blackbullSA203.jpeg",
+                    "name": "Black Bull SA20 3 Ton Hydraulic Floor Jack",
+                    "description": "Capacity: 3 Ton, Heavy gauge reinforced steel frame is ideal for shop use, Lifts most cars, trucks and SUVs up to 6000 pounds ",
+                    "price": "133.49",
+                    "rating": "0"
+                }
+            ]
+        },
+        {
+            "_id": "103",
+            "name": "Paper & Stationary",
+            "products": [
+                {
+                    "_id": "201",
+                    "image": "staplescopypaper.jpeg",
+                    "name": "Staples Copy Paper, 8 1/2'' x 11'', Case",
+                    "description": "20 lb, 92 US / 104 Euro Bright, Ideal for toner-based copiers, plain-paper fax machine",
+                    "price": "45.99",
+                    "rating": "4.5"
+                },
+                {
+                    "_id": "202",
+                    "image": "hpofficepaper.jpeg",
+                    "name": "HP Office Paper",
+                    "description": "20 lb, 92 US / 104 Euro Bright, Reduces paper dust build-up that may cause jams",
+                    "price": "33.99",
+                    "rating": "4.5"
+                },
+                {
+                    "_id": "203",
+                    "image": "premiumawardcertificate.jpeg",
+                    "name": "Premium Award Certificates, Gold",
+                    "description": "Easy-to-customize, Stamped with high-qualitiy foil, Printed on 80-lb paper",
+                    "price": "7.99",
+                    "rating": "4.5"
+                },
+                {
+                    "_id": "204",
+                    "image": "hammermillcolorcopy.jpeg",
+                    "name": "HammerMill Color Copy Digital Paper",
+                    "description": "28 lb, 100 US / 112+ Euro Bright, Ultrabright 'PhotoWhite' shade provides better color registration",
+                    "price": "17.49",
+                    "rating": "5"
+                }
+            ]
+        },
+        {
+            "_id": "104",
+            "name": "Arts & Crafts",
+            "products": [
+                {
+                    "_id": "201",
+                    "image": "staples4-drawer.jpeg",
+                    "name": "Staples 4-Drawer Organizers",
+                    "description": "Drawer storage made from durable polypropylene plastic, Four casters for easy mobility, Available with a silver wood top or plastics top with organizer ",
+                    "price": "32.99",
+                    "rating": "4.5"
+                },
+                {
+                    "_id": "202",
+                    "image": "desktopstorage.jpeg",
+                    "name": "Desktop Storage Drawers",
+                    "description": "Drawers slide easily, Holds 8 1/2'' x 11'' paper, Acid free ",
+                    "price": "19.49",
+                    "rating": "4.5"
+                },
+                {
+                    "_id": "203",
+                    "image": "artbinsupersatchel.jpeg",
+                    "name": "ArtBin Super Satchel Market Storage Satchel, Translucent Clear",
+                    "description": "Translucent Clear, Dimensions: 15'' x 8'' x 6 1/2'', Marker storage satchel is a versatile way of carrying...",
+                    "price": "15.69",
+                    "rating": "5"
+                },
+                {
+                    "_id": "204",
+                    "image": "rectangularhandheldmagnifier.jpeg",
+                    "name": "2'' x 4'' Rectangular Handheld Magnifier",
+                    "description": "Shatterproof acrylic lens, 2'' x 4'' lens with 2x Magnification, Molded to fit your hand with Ergo Touch grip",
+                    "price": "22.99",
+                    "rating": "4"
+                }
+            ]
+        }
+    ]
+}
